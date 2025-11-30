@@ -76,22 +76,6 @@ Welcome to my GitHub profile! I am a Flutter Developer with **4.5+ years of expe
 
 ---
 
-## 🎓 Education
-
-**🎓 B. Tech in Information Technology**  
-Birla Vishvakarma Mahavidyalaya, Anand, Gujarat | 2016 – 2019
-
-**📚 Diploma Engineering in Information Technology**  
-Parul Polytechnic Institute, Vadodara, Gujarat | 2012 – 2016
-
----
-
-##  Languages
-
-🗣️ **Gujarati** | **Hindi** | **English**
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
