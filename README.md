@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jaladhi
 
-### Flutter Developer | Mobile App Specialist | UI/UX Enthusiast
+### Flutter Developer | Mobile App Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jd-patel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://jaladhi-dev.github.io/portfolio/)
@@ -14,7 +14,18 @@
 
 ## 🚀 About Me
 
-Flutter Developer with **4+ years of experience** in designing, developing, and maintaining mobile applications. Skilled in writing clean, efficient code and delivering seamless user experiences.
+Welcome to my GitHub profile! I am a Flutter Developer with **4.5+ years of experience** in designing, developing, and maintaining mobile applications. With a strong background in mobile development, I strive to deliver seamless user experiences through clean and efficient code.
+
+- Full Time
+- Part Time
+- Contract
+
+## 🚀 More About Me
+
+- 🌱 Actively exploring advanced Flutter architectures and cross-platform development to optimize mobile applications.
+- 👯 Open to collaborating on exciting open-source Flutter projects that drive innovation and enhance user experiences.
+- 💬 Feel free to reach out to discuss anything related to Flutter development, Mobile technologies, or App development strategies.
+- 📫 How to reach me: [Email](mailto:jaladhi.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jd-patel) | [Portfolio](https://jaladhi-dev.github.io/portfolio/)
 
 ---
 
@@ -65,29 +76,6 @@ Flutter Developer with **4+ years of experience** in designing, developing, and 
 
 ---
 
-## 💼 Professional Experience
-
-### 🔹 Mobile Developer @ **EngagelyAI**
-📍 Mumbai, Maharashtra, India | 📅 October 2024 – Present
-
-Working as a Flutter Developer, focusing on building and improving mobile app solutions while staying updated with the latest Flutter advancements.
-
----
-
-### 🔹 Flutter Developer @ **Paiteq Private Limited**
-📍 Bangalore, Karnataka, India | 📅 April 2024 – April 2025
-
-Maintain and enhance mobile applications by fixing bugs, improving performance, and adding new features. Collaborate with product and design teams to ensure smooth, up-to-date, and user-friendly experiences.
-
----
-
-### 🔹 Flutter Developer @ **Ebizz Infotech**
-📍 Surat, Gujarat, India | 📅 August 2021 – March 2024
-
-Worked on multiple mobile applications across wellness, fitness, finance, and enterprise domains, utilizing a variety of technologies and third-party packages. Focused on delivering seamless user experiences, implementing core functionalities, and maintaining app performance and stability across projects.
-
----
-
 ## 🎓 Education
 
 **🎓 B. Tech in Information Technology**  
@@ -101,18 +89,6 @@ Parul Polytechnic Institute, Vadodara, Gujarat | 2012 – 2016
 ##  Languages
 
 🗣️ **Gujarati** | **Hindi** | **English**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-</div>
 
 ---
 
