@@ -63,8 +63,17 @@ Welcome to my GitHub profile! I am a Flutter Developer with **4.5+ years of expe
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-**Task Management:** Jira | Linear | ZOHO | Clickup  
-**Design Tools:** Figma | Adobe XD
+### Task Management Tools
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![ZOHO](https://img.shields.io/badge/ZOHO-C8202E?style=for-the-badge&logo=zoho&logoColor=white)
+![Clickup](https://img.shields.io/badge/Clickup-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+
+### Design Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ### Additional Technical Exposure
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
