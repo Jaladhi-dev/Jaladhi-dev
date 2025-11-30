@@ -97,12 +97,4 @@ I'm always interested in hearing about new projects and opportunities!
 
 </div>
 
----
 
-<div align="center">
-
-### ⭐ If you find my work interesting, feel free to star my repositories!
-
-**Made with ❤️ by Jaladhi**
-
-</div>
