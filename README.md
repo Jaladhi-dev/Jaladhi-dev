@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Welcome to my GitHub profile! I am a Flutter Developer with **4.5+ years of experience** in designing, developing, and maintaining mobile applications. With a strong background in mobile development, I strive to deliver seamless user experiences through clean and efficient code.
+Welcome to my GitHub profile! I am a Flutter Developer with **5+ years of experience** in designing, developing, and maintaining mobile applications. With a strong background in mobile development, I strive to deliver seamless user experiences through clean and efficient code.
 
 - Full Time
 - Part Time
